@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a3a87c79-a444-4058-af8c-c75a6d90626f",
+        "password": "$2a$08$R4xxp1nwOf87z2vHkkHtF./T5oBqW0ib5do0tOG3scOOOswlEoGBy",
+        "name": "Doniyor",
+        "lastName": "Qalandarov"
+    },
+    {
+        "id": "3ab7649c-50b5-4d4f-a1df-03cc0eeecdb0",
+        "password": "$2a$08$pPwZMQukI/weGlGnuEnJWe8psKU9zJXEMHaz.YGYYJCU9dT97LS4C",
+        "name": "Doniyor",
+        "lastName": "DDD"
+    },
+    {
+        "id": "94902d08-0fcd-4485-9976-91291c1778c1",
+        "password": "$2a$08$ScWIRL9YGnJdKpvjEAa6M.P62SnuUMAe7zy3/DX59RkYc5Mp0C6bG",
+        "name": "Don"
+    }
+]
